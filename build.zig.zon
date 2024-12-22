@@ -12,8 +12,8 @@
     },
     .dependencies = .{
         .glfw = .{
-            .url = "git+https://github.com/castholm/glfw#996e326b9fb2217933f06e6a46f7bd639852001b",
-            .hash = "12206dd27a7ef579db7c4b8949679a0952a4f87671e1b86d7394a9e1c0dedc2354d6",
+            .url = "https://pkg.machengine.org/glfw/ec656e10d3643a3a71149bb96ae6b0831b84b677.tar.gz",
+            .hash = "12207be469bad84baed2ede75cf89ede37e1ed5ee8be62a54d2b2112c5f56a44cc89",
         },
     },
 }
